@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#11131A</color>
+    <color name="card_bg">#161B24</color>
+    <color name="card_stroke">#222B3A</color>
+    <color name="gold_accent">#E5B887</color>
+    <color name="emerald">#10B981</color>
+    <color name="ruby">#F87171</color>
+    <color name="amber">#FBBF24</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#94A3B8</color>
+</resources>

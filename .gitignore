@@ -1,0 +1,10 @@
+bin/
+gen/
+dex_out/
+*.zip
+app-classes.jar
+base.apk
+ChantelSIM_unaligned.apk
+crop_*.png
+thumb.png
+.DS_Store
